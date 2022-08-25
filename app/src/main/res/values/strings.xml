@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Business card</string>
+    <string name="full_name">Михаил Выдрин</string>
+    <string name="title">Android Developer</string>
+    <string name="number">8–950-542-84-28</string>
+    <string name="link">"@Apxupok"</string>
+    <string name="email">apxupok@gmail.com</string>
+
+
+</resources>
